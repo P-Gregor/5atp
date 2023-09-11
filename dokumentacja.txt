@@ -1,1 +1,4 @@
-dadsa
+poczeba:
+    -node
+    -android studio
+    -paczka do utworzenia apki
