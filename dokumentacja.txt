@@ -2,3 +2,6 @@ poczeba:
     -node
     -android studio
     -paczka do utworzenia apki
+
+npx create-expo-app - wersja nr 1 - za pomoca tego pobieramy expo na tel
+ebe ebe
